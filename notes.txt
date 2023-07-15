@@ -1,0 +1,27 @@
+Falta 
+Pruebas: proceso global y traspasos
+
+Todo:
+Tickets a GLPI
+
+Planificacion desarrollo desahucio:
+Objetivo: Empresa nueva, prueba automatica entre request core y request microservicio.
+- Si acabo antes: seguir pasando pruebas de la bateria de pruebas.
+
+Martes:
+-	Query para extraer data de resultados.
+-	Base de codigo comparar resultados.
+-	Metodo compare to. Inicia en resultados globales, si falla, pasa a comparar empleados
+
+
+La idea es que el proceso actual no tiene un obd suma porque no es igual al actual.
+Entonces el proceso actual compara los resultados individuales de cada empleado.
+
+Miercoles: escribir las pruebas del proceso de resultados. En donde sí se se compara los resultados actuales.
+
+Luego se puede pasar el proceso de tasa alterna, estimación y proyección
+
+Debo empezar con tasa alterna y terminar con proceso de resultados pues este último es dependiente.
+
+Proceso actual DONE
+Proceso tasa alterna DOING - Ver que los numeros de proceso de pruebas sean recientes pues la tasa alterna se ha corregido recientemente.
